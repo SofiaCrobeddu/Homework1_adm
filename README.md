@@ -1,7 +1,7 @@
 # Homework1_adm
 ### What's in my repository
 ---
-##### First, it contains the LICENSE of MIT.
+##### First, it contains the [LICENSE of MIT](https://github.com/SofiaCrobeddu/Homework1_adm/blob/365b2957404223f40c079da40cb44fb526a3cc26/LICENSE).
 
 ##### Second, there is the [HW1final_adm](https://github.com/SofiaCrobeddu/Homework1_adm/blob/7e5a7a86cbfec7a75d70172fd337d344e61711ab/HW1final_adm.ipynb) that is the file Notebook with the Problems 1 and 2 solved.
 ###### Problem 1 
