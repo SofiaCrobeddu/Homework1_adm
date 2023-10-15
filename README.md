@@ -27,4 +27,4 @@
 5. Insertion Sort - Part 1
 6. Insertion Sort - Part 2
 
-##### Finally, there is the pdf of all the submissions in Hackerrank.
+##### Finally, there is the [pdf of all the submissions in Hackerrank](https://github.com/SofiaCrobeddu/Homework1_adm/blob/d045cfa10b1a06095ef477348a75847f3e9fbfe9/merged%20file%20submissions.pdf).
