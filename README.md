@@ -3,7 +3,7 @@
 ---
 ##### First, it contains the LICENSE of MIT.
 
-##### Second, there is the HW1final_adm that is the file Notebook with the Problems 1 and 2 solved.
+##### Second, there is the HW1final_adm [https://github.com/SofiaCrobeddu/Homework1_adm/blob/7e5a7a86cbfec7a75d70172fd337d344e61711ab/HW1final_adm.ipynb] that is the file Notebook with the Problems 1 and 2 solved.
 ###### Problem 1 
 1. Introduction (all – total: 7)
 2. Data types (all – total: 6)
